@@ -1,4 +1,4 @@
-# paper
+# Paper
 This is the source code for our school's website that I'm making.
 
 <h2><b>Contributors</b></h2>
